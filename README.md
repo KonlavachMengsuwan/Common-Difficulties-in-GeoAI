@@ -46,11 +46,3 @@ GeoAI (Geospatial Artificial Intelligence) integrates **GIS, remote sensing, and
 ✔ **Open-source geospatial AI tools** – Utilize libraries like **GeoPandas, Rasterio, Deep Learning ArcGIS, and TorchGeo** to bridge GIS and AI.  
 
 ---
-
-## 📌 Want to Contribute?  
-If you're working on solutions for these challenges, feel free to **open an issue or submit a pull request**! 🚀  
----
-
-This README keeps the **structure clean and well-documented**, making it **easy for others to learn from and contribute to your work**.  
-
-Would you like any customizations for your **GitHub profile or repo style?** 😊🚀
