@@ -49,9 +49,6 @@ GeoAI (Geospatial Artificial Intelligence) integrates **GIS, remote sensing, and
 
 ## 📌 Want to Contribute?  
 If you're working on solutions for these challenges, feel free to **open an issue or submit a pull request**! 🚀  
-
-📩 **Contact Me:** [Your Email] | 🔗 [Your LinkedIn] | 🐦 [Your Twitter/GitHub Handle]  
-
 ---
 
 This README keeps the **structure clean and well-documented**, making it **easy for others to learn from and contribute to your work**.  
